@@ -57,7 +57,7 @@ First, you have to download a few files and get them into a *Unity* project:
 1. Make sure to restart *Unity*.
 1. Download the latest [Components for Unity](https://github.com/Live2D/CubismUnityComponents/tree/develop) into your project. Overwrite any previous SDK files with the new ones.
 1. Download/Clone this repository into your project.
-1. Copy the *Mono* `System.Windows.Forms.dd` into your project. (Check out `./Assets/Live2D/Cubism/Viewer/Plugins/System.Windows.Forms.txt` for instructions).
+1. Copy the *Mono* `System.Windows.Forms.dll` into your project. (Check out `./Assets/Live2D/Cubism/Viewer/Plugins/System.Windows.Forms.txt` for instructions).
 
 From here things are easy because you do the rest completely inside the *Unity Editor*:
 
