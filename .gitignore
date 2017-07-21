@@ -1,0 +1,8 @@
+*.*
+[Ll]ibrary
+[Tt]emp
+!Assets/Live2D/Cubism/Viewer/**/*.cs
+!Assets/Live2D/Cubism/Viewer/**/*.txt
+!.gitignore
+!Readme.md
+Assets/**/*.md
