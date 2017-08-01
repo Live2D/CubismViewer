@@ -49,6 +49,11 @@ You can register any number of UI elements you want themed, too, through the *In
 Hotkey defaults to `Left Control + T` for switching between themes.
 
 
+## User *Gem*s
+
+- [DenchiSoft/CubismViewerGems](https://github.com/DenchiSoft/CubismViewerGems)
+
+
 ## Getting Started
 
 First, you have to download a few files and get them into a *Unity* project:
@@ -73,6 +78,8 @@ From here things are easy because you do the rest completely inside the *Unity E
 ## Contributing
 
 Wrote a cool *gem*? We're looking forward to it.
+You can either submit its source code or a link (as issues or as pull requests).
+
 Besides that, there are many other ways to contribute to the project, too:
 logging bugs, submitting pull requests, reporting issues, and creating suggestions.
 
