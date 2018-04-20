@@ -78,10 +78,10 @@ From here things are easy because you do the rest completely inside the *Unity E
 ## Contributing
 
 Wrote a cool *gem*? We're looking forward to it.
-You can either submit its source code or a link (as issues or as pull requests).
+You can either submit its source code or a link (as Live2D Community or as pull requests).
 
 Besides that, there are many other ways to contribute to the project, too:
-logging bugs, submitting pull requests, reporting issues, and creating suggestions.
+logging bugs, submitting pull requests on this GitHub, and reporting issues and making suggestions at Live2D Community.
 
 
 ### Forking And Pull Requests
@@ -94,8 +94,8 @@ To keep the main repository as clean as possible, create a personal fork and fea
 
 ### Bugs
 
-All issues and feature requests are tracked using the GitHub issue tracker for this repository.
-Before filing a bug report, please do a search in open issues to see if the issue or feature request has already been filed.
+We are regularly checking issue-reports and feature requests at Live2D Community.
+Before filing a bug report, please do a search in Live2D Community to see if the issue-report or feature request has already been posted.
 If you find your issue already exists, make relevant comments and add your reaction.
 
 
